@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ed1139ef-1700-478d-9e77-6f299ae58d08)
+
+  (paper "A4")
+
+  (title_block
+    (title "PMOD Extension Cable")
+    (date "2024-08-20")
+    (rev "1.0")
+    (company "S59MZ")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
