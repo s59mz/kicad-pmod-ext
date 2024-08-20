@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+"green","D1","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder",""
+"2.5","H1","MountingHole:MountingHole_2.5mm",""
+"pmod-4","J1","Library:PinHeader_2x06_P2.54mm_Horizontal",""
+"pmod-4 cable","J2","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical",""
+"4k7","R1","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",""
