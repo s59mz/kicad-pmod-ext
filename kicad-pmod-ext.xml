@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/matjaz/Kicad/kicad-pmod-ext/kicad-pmod-ext.kicad_sch</source>
-    <date>tor 20 avg 2024 19:23:21</date>
+    <date>tor 20 avg 2024 20:40:13</date>
     <tool>Eeschema 7.0.11-7.0.11~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -175,35 +175,35 @@
     </net>
     <net code="2" name="/pmod1">
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="3" name="/pmod2">
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
     <net code="4" name="/pmod3">
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
     <net code="5" name="/pmod4">
       <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
     <net code="6" name="/pmod5">
       <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
     </net>
     <net code="7" name="/pmod6">
       <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
     </net>
     <net code="8" name="/pmod7">
       <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
     </net>
     <net code="9" name="/pmod8">
       <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
     </net>
     <net code="10" name="GND">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
